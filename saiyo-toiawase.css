@@ -1,0 +1,181 @@
+<@charset"UTF-8";>
+
+
+body {
+  font-family: "HiraginoSans-W3","游ゴシック Medium","Yu Gothic Medium","游ゴシック体",YuGothic,sans-serif;
+  margin: 0;
+}
+
+@media (max-width: 670px) {
+
+  body{
+    width: 100%!important;
+  }
+
+  .topper{
+    margin-top: 0!important;
+    text-align: center!important;
+    margin: 0 auto!important;
+  }
+
+  .footer{
+    text-align: center!important;
+    margin: 0 auto!important;
+  }
+
+  .menu1 li {
+    font-size: 13px!important;
+    padding-left: 6px!important;
+  }
+
+  .TEL li {
+    font-size: 15px!important;
+    padding-left: 6px!important;
+  }
+
+  ul{
+    margin-top: 20px!important;
+  }
+
+
+  h1 {
+    font-size: 30px!important;
+  }
+
+  img {
+    margin: 0px!important;
+  }
+
+  .TEL {
+    padding-left: 0;
+
+  }
+
+  body{
+    background-color: white!important;
+  }
+
+  .info {
+    margin:0 auto!important;
+  }
+
+  .copy-right{
+    margin-top: 5px;
+    height: 15px;
+  }
+
+  .main{
+    height: 500px!important;
+  }
+
+}
+
+.topper{
+  width: auto;
+  height: 200px;
+  background-color: white;
+  border-bottom:  2px solid #979797;
+  margin-top: 50px;
+ }
+
+ .main{
+   background-color: white;
+   padding-left: 20px;
+   padding-top: 40px;
+   height: 600px;
+ }
+
+body{
+  width: 800px;
+  margin:auto;
+  background-color: #D1F3FF;
+}
+
+img {
+  height: auto;
+  width: 350px;
+  margin: 20px;
+}
+
+.logo2{
+  height: auto;
+  width: 280px;
+  margin: 20px;
+}
+
+.info li {
+  padding: 0;
+}
+
+
+li {
+  float: left;
+  padding-left: 50px;
+  list-style-type: none;
+  font-size: 22px;
+  color: black;
+  white-space: nowrap;
+}
+
+.TEL {
+  height: auto;
+  width: 300px;
+  float: right;
+  font-size: 18px;
+  margin: 30px;
+  color: #0D2D63;
+}
+
+h1 {
+  font-family: HiraginoSans-W5;
+  font-size: 24px;
+  color: #0D2D63;
+  margin: 0;
+}
+
+.採用 .お問い合わせ{
+  height: 300px;
+}
+
+
+
+.contents1 {
+  width: auto;
+  height: 100px;
+}
+
+p {
+  margin-bottom: 0;
+  line-height: 45px;
+}
+
+
+.info {
+  height: auto;
+  width: 330px;
+  float: right;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+.info li {
+  font-family: HiraginoSans-W4;
+  font-size: 13px;
+}
+
+.copy-right {
+  text-align: center;
+}
+
+.footer{
+border-top:  2px solid #979797;
+background-color: white;
+}
+
+a {
+  display:block;
+ }
+
+.pic1 {
+  float: right;
+}
