@@ -71,6 +71,10 @@ body {
   .menu1{
     padding-left: 25px!important;
   }
+  
+  .info li {
+  padding: 0;
+  }
 
 }
 
@@ -105,10 +109,6 @@ img {
   height: auto;
   width: 280px;
   margin: 20px;
-}
-
-.info li {
-  padding: 0;
 }
 
 
