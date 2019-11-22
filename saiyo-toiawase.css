@@ -67,6 +67,10 @@ body {
   .main{
     height: 500px!important;
   }
+  
+  .menu1{
+    padding-left: 25px!important;
+  }
 
 }
 
