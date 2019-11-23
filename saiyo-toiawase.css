@@ -132,7 +132,7 @@ li {
 
 h1 {
   font-family: HiraginoSans-W5;
-  font-size: 24px;
+  font-size: 30px;
   color: #0D2D63;
   margin: 0;
 }
@@ -141,6 +141,9 @@ h1 {
   height: 300px;
 }
 
+.contents1 p {
+  font-size: 24px;
+}
 
 
 .contents1 {
