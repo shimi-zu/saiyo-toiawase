@@ -75,6 +75,10 @@ body {
   .info li {
   padding: 0;
   }
+  
+  .contents1 p {
+  font-size: 18px!important;
+  }
 
 }
 
